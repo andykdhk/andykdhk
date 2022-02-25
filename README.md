@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-# Andrew.K
-<h1 align="center"> Andrew</h1>
+
 
 <h3>🦢</h3>
 
